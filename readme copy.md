@@ -1,4 +1,4 @@
-<!-- <p align="center">
+<p align="center">
  <img width="100px" src="https://res.cloudinary.com/dhimasn/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
  <h2 align="center">GitHub Readme Stats</h2>
  <p align="center">Get dynamically generated GitHub stats on your readmes!</p>
@@ -332,9 +332,9 @@ Change the `?username=` value to your [Wakatime](https://wakatime.com) username.
 
 - Hiding specific stats
 
-![dhimas's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhimasn&hide=contribs,issues) -->
+![dhimas's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhimasn&hide=contribs,issues)
 
-<!-- - Showing icons
+- Showing icons
 
 ![dhimas's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhimasn&hide=issues&show_icons=true)
 
@@ -342,13 +342,11 @@ Change the `?username=` value to your [Wakatime](https://wakatime.com) username.
 
 ![dhimas's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhimasn&border_color=2e4058)
 
-- Include All Commits -->
+- Include All Commits
 
-### HI THERE
+![dhimas's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhimasn&include_all_commits=true)
 
-![dhimas's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhimasn&include_all_commits=true&theme=radical)
-
-<!-- - Themes
+- Themes
 
 Choose from any of the [default themes](#themes)
 
@@ -356,9 +354,9 @@ Choose from any of the [default themes](#themes)
 
 - Gradient
 
-![dhimas's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhimasn&bg_color=30,e96443,904e95&title_color=fff&text_color=fff) -->
+![dhimas's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhimasn&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
-<!-- - Customizing stats card
+- Customizing stats card
 
 ![dhimas's GitHub stats](https://github-readme-stats.vercel.app/api/?username=dhimasn&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
@@ -444,4 +442,4 @@ Thanks! :heart:
 
 Contributions are welcome! <3
 
-Made with :heart: and JavaScript. -->
+Made with :heart: and JavaScript.
