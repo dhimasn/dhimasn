@@ -344,7 +344,7 @@ Change the `?username=` value to your [Wakatime](https://wakatime.com) username.
 
 - Include All Commits -->
 
-###HI 👋, THERE
+HI 👋, THERE
 
 ![dhimas's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhimasn&include_all_commits=true&theme=radical)
 
